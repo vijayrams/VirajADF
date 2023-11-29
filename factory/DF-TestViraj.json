@@ -1,0 +1,9 @@
+{
+	"name": "DF-TestViraj",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "75093e36-c615-4606-8318-c4c8c5ffe076",
+		"tenantId": "f738ae46-ca92-4620-b279-aeff0b1b4f1a"
+	}
+}
